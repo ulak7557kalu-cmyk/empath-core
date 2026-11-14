@@ -1,0 +1,9 @@
+Copyright (c) 2026 Alin (DJ.ERROR). All rights reserved.
+
+This repository, the encrypted application and the encrypted media streams it contains are proprietary.
+No permission is granted to use, copy, modify, decrypt, reverse-engineer or redistribute
+any part of it without prior written consent of the author.
+
+Third-party components (redistributed unmodified):
+- mp/          MediaPipe Tasks Vision 0.10.21 + face_landmarker.task — Apache License 2.0, Copyright Google LLC
+- fonts/       Orbitron, JetBrains Mono — SIL Open Font License 1.1 (see fonts/OFL-*.txt)
